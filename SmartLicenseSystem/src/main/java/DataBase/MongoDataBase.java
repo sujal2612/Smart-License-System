@@ -25,7 +25,7 @@ public class MongoDataBase {
     MongoCollection<Document> collection;
     public MongoDataBase(String databaseName, String collectionName){
         // TODO: 04/02/2024 Enter URL of Your MongoDB Cluster or LocalHost
-        uri = "mongodb+srv://shivamdubey88016_db_user:qYNX1pDvN8KmXp5n@cluster0.dyushnv.mongodb.net/?appName=Cluster0";
+        uri = " ";
 
 
         try {
