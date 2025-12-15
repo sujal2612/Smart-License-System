@@ -1,9 +1,5 @@
 # SMART LICENSE System
 
-## Contributors
-- [Muhammad Fuzail Raza](https://github.com/Fuzail-Raza)
-- [Waqas Zafar](https://github.com/WaqasZafar9)
-
 ## Overview
 Smart License System is a groundbreaking project aimed at revolutionizing the traditional driving license process. By seamlessly integrating modern technologies, the system enhances efficiency and user-friendliness, providing a streamlined experience for our local community.
 
